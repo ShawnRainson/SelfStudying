@@ -1,0 +1,10 @@
+Задание 1: Интерактивный перевод
+1.1 I need find a grocery store in this neighborhood.
+1.2 Would you mind to schedult our meeting tomorrow?
+1.3 I must complete this feature before deadline.
+Задание 2: Reading & Context (Анализ текста)
+2.1 Коллега думает что фича сделана отлично. У проекта жёсткий дедлайн, описан словом "tight".
+2.2 Он просит Ивана назначить коротку встречу на завтра для обсуждения конечного развёртывания проекта в среде разработки.
+Задание 3: Челлендж «Переезд»
+3.1 Yeah bro, i need find furnished apartment in London with a good landlord for dodge problems with rent.
+3.2 Well, i think if grocery store and public transport stop will be nearby the house, it is great choice.

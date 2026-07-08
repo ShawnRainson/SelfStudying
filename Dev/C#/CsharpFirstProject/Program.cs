@@ -4,12 +4,19 @@ class Program
 {
     static void Main()
     {
-        string myName = "Ivan";
-        int myAge = 21;
-        double myAssesment = 4.14;
-        bool isLearningCSharp = true;
-
-        Console.WriteLine($"My name is {myName}, i am {myAge} y.o. My middle assesment is {myAssesment}, i am learning C#: {isLearningCSharp}");
+        int score = 77;
+        if (score >= 90)
+        {
+            Console.WriteLine("Excellent!");
+        }
+        else if (score >= 50 && score <= 89)
+        {
+            Console.WriteLine("Good job!");
+        }
+        else
+        {
+            Console.WriteLine("Try again!");
+        }
 
     }
 }
