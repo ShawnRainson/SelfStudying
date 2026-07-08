@@ -1,0 +1,7 @@
+Задание 1: Ситуативный перевод (Бытовые ситуации)
+1.1 Would you mind showing me the way?
+1.2 Could you please make schedule shortly?
+1.3 I'm wondering if you could help me handle this problem?
+Задание 2: Работа с текстом (Reading & Логи)
+Ошибка произошла на 14 строке.
+Файл не был найден в директории при попытке его открытия. 

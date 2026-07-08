@@ -1,0 +1,8 @@
+Задание 1: Интерактивный перевод (Грамматика + Лексика)
+1.1 Consistency will help me study Python
+1.2 I'll make a schedule for my new project tomorrow
+1.3 I will handle with every obstacles next week
+Задание 2: Исправление ошибок (Будь ментором)
+2.1 I will learn OOP next Monday.
+2.2 She won't handle this difficult task without your help.
+2.3 What will you do when you finish the course?

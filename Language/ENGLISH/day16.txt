@@ -1,0 +1,11 @@
+Задание 1: Интерактивный перевод (Грамматический микс)
+1.1 Would you mind send features to me tomorrow?
+1.2 I must pay deposit to landlord on the next week
+1.3 I'm wondering if you could fix this bug right now?
+Задание 2: Исправление ошибок (Будь ментором)
+2.1 The landlord said I must pay for a water.
+2.2 I am looking furnished apartment in the center.
+2.3 Our team will fix this bug shortly.
+Задание 3: Лексический челлендж
+3.1 The landlord said his apartment is furnished and sent me photo
+3.2 I must fix this feature before next day.

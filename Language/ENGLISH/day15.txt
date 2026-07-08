@@ -1,0 +1,9 @@
+Задание 1: Интерактивный перевод (Микс работы и жизни)
+1.1 You should better read the tenancy agreement.
+1.2 Would you mind help me open a bank account tomorrow?
+1.3 Our teamlead said, that we must deploy this code in the strict environment.
+Задание 2: Reading & Анализ (Пойми документ и логику)
+2.1 Компилятор сохраняет тип данных. Мы не можем перевести строку в целое число.
+2.2 Действующий паспорт и счета за оплату коммунальных услуг. Копии не принимаются.
+Задание 3: Лексический челлендж (Высший пилотаж)
+Hello sir, i am ready to sign tenancy agreement, after that can you sent me charge for utility bill to WhatsApp? 

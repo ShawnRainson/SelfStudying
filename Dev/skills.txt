@@ -1,0 +1,3 @@
+Skill: Python
+Skill: Git
+Skill: English

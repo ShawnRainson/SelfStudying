@@ -1,0 +1,8 @@
+1. Переведи вопросы на английский, строго следуя формуле:
+1.1 What did you programm yesterday?
+1.2 Why does your friend want to learn JavaScript?
+1.3 When will you start your pet-project?
+2. Представь, что ты общаешься с зарубежным HR-специалистом (рекрутером). Задай ему 3 любых вопроса о компании или работе
+2.1 How many people working in your company?
+2.2 Where does locate your main office?
+2.3 What can you present of last projects from your company? 
