@@ -1,0 +1,11 @@
+Задание 1: Интерактивный перевод
+1.1 This task in progress now.
+1.2 Would you mind assigning this task for me tomorrow?
+1.3 My teamlead must to review this code right now.
+Задание 2: Исправление ошибок (Будь ментором)
+2.1 I have a many tasks in progress.
+2.2 Would you mind assigning this bug to Alex?
+2.3 This feature is done yesterday.
+Задание 3: Челлендж «Рабочий чат»
+3.1 Hey guys, i am done my tasks, what about you?
+3.2 By the way, Mia, could you review my code, please?

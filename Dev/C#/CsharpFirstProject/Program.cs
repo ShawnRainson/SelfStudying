@@ -1,22 +1,17 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 
 class Program
 {
     static void Main()
     {
-        int score = 77;
-        if (score >= 90)
+        int[] grades = {4, 5, 3, 2, 3};
+        int sum = 0;
+        foreach(int grade in grades)
         {
-            Console.WriteLine("Excellent!");
+            Console.WriteLine($"Grade: {grade}");
+            sum += grade;
         }
-        else if (score >= 50 && score <= 89)
-        {
-            Console.WriteLine("Good job!");
-        }
-        else
-        {
-            Console.WriteLine("Try again!");
-        }
-
+        Console.WriteLine($"Sum: {sum}");
     }
 }
