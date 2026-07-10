@@ -1,0 +1,10 @@
+Задание 1: Интерактивный перевод
+1.1 Would you mind to share your screen?
+1.2 I can't reproduce this bug report.
+1.3 You must unmute, we don't hear you.
+Задание 2: Reading & Context (Анализ текста)
+2.1 У Ивана был выключен микрофон, коллега попросил его включить.
+2.2 Коллега не может воспроизвести проблему на своём локальном ПК, поэтому просит Ивана включить демонстрацию экрана и продемонстрировать.
+Задание 3: Челлендж «Техподдержка»
+3.1 Hey Mia, i tried look at your bug report, but when i tried reproduce it, i got a technical issue.
+3.2 Yeah, i can share my screen if that can help you see problem.
