@@ -1,0 +1,24 @@
+h1 {
+    color: white;
+    background-color: green;
+}
+
+.success {
+    color: black;
+    font-size: 20px;
+}
+
+.in-progress {
+    color: black;
+    font-size: 20px;
+}
+
+#author-signature {
+    color: blue;
+    font-style: italic;
+    font-size: 5px;
+}
+
+#author-signature:hover {
+    color: lightblue;
+}

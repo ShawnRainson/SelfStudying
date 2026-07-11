@@ -1,21 +1,17 @@
-﻿using System;
+﻿using System.Collections.Generic;
 
-interface IReviewable
+class Program
 {
-    void Review();
-}
-
-class Program: IReviewable
-{
-    public void Review()
-    {
-        Console.WriteLine("Code review is passed!");
-    }
-
     static void Main()
     {
-        Program myProgram = new Program();
+        List<string> shoppingList = new List<string>();
+        shoppingList.Add("Milk");
+        shoppingList.Add("Bread");
+        shoppingList.Add("Eggs");
 
-        myProgram.Review();
+        foreach(string product in shoppingList)
+        {
+            Console.WriteLine($"Product: {product}");
+        }
     }
 }
