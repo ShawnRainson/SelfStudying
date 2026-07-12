@@ -22,3 +22,9 @@ h1 {
 #author-signature:hover {
     color: lightblue;
 }
+
+input[type='text'] {
+    padding: calc();
+}
+
+input:focus

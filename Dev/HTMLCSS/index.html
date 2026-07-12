@@ -7,9 +7,21 @@
     <body>
         <h1>My way to IT</h1>
 
-        <p class="succes">College graduating!</p>
+        <p class="success">College graduating!</p>
         <p class="in-progress">Daily tasks with AI!</p>
 
         <div id="author-signature">Shawn Rainson</div>
+
+        <input type="text" id="task-input" placeholder="Enter task">
+        <button onclick="takeTask()">Enter</button>
+
+        <script>
+            function takeTask() {
+                let inputTask = document.getElementById('task-input');
+                let task = inputTask.value;
+                console.log(`User entered: ${task}`);
+
+            }
+        </script>
     </body>
 </html>

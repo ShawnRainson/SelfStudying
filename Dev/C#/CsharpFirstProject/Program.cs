@@ -1,17 +1,17 @@
-﻿using System.Collections.Generic;
+﻿using System.Text;
 
 class Program
 {
     static void Main()
     {
-        List<string> shoppingList = new List<string>();
-        shoppingList.Add("Milk");
-        shoppingList.Add("Bread");
-        shoppingList.Add("Eggs");
+        string[] terms = {"Loop ", "OOP ", "List ", "Integer"};
+        StringBuilder sb = new StringBuilder();
 
-        foreach(string product in shoppingList)
+        foreach(string term in terms)
         {
-            Console.WriteLine($"Product: {product}");
+            sb.Append(term);
         }
+        string result = sb.ToString();
+        Console.WriteLine(result);
     }
 }
