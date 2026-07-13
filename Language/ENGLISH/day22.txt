@@ -1,0 +1,11 @@
+Задание 1: Интерактивный перевод (Делаем заказ)
+1.1 Could i have a menu? I would like to order cup of ceffee.
+1.2 I'll have a fish and bottle of still water, please.
+1.3 Could we have the bill? Is service included?
+Задание 2: Reading & Context (Обед в ресторане)
+2.1 Иван заказал стейк и красное вино, а официант спросил насчёт степени прожарки стейка.
+2.2 Газированная вода и средняя степень прожарки
+Задание 3: Челлендж «Заказ на двоих»
+3.1 Excuse me sir, could we have a menu?
+3.2 Yeah, we're ready to order, i would like a sushi California, for my friend - pasta Karbonara, please.
+

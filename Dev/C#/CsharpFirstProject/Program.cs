@@ -1,17 +1,15 @@
-﻿using System.Text;
+﻿using System;
 
 class Program
 {
     static void Main()
     {
-        string[] terms = {"Loop ", "OOP ", "List ", "Integer"};
-        StringBuilder sb = new StringBuilder();
+        DateTime today = DateTime.Now;
+        DateTime futureDay = today.AddDays(7);
 
-        foreach(string term in terms)
-        {
-            sb.Append(term);
-        }
-        string result = sb.ToString();
-        Console.WriteLine(result);
+        string str_today = today.ToString("yyyy.MM.dd");
+        string str_futureDate = futureDay.ToString("yyyy.MM.dd");
+
+        Console.WriteLine($"Today: {str_today}\nFuture day: {str_futureDate}");
     }
 }
