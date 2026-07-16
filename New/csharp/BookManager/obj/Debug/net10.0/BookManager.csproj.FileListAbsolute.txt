@@ -1,0 +1,5 @@
+D:\SelfStudying\SelfStudying\New\csharp\BookManager\obj\Debug\net10.0\BookManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfStudying\SelfStudying\New\csharp\BookManager\obj\Debug\net10.0\BookManager.AssemblyInfoInputs.cache
+D:\SelfStudying\SelfStudying\New\csharp\BookManager\obj\Debug\net10.0\BookManager.AssemblyInfo.cs
+D:\SelfStudying\SelfStudying\New\csharp\BookManager\obj\Debug\net10.0\BookManager.csproj.CoreCompileInputs.cache
+D:\SelfStudying\SelfStudying\New\csharp\BookManager\obj\Debug\net10.0\BookManager.sourcelink.json

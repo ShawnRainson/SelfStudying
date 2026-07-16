@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SelfStudying\\SelfStudying\\Dev\\C#\\CsharpFirstProject\\CsharpFirstProject.csproj": {}
+    "D:\\SelfStudying\\SelfStudying\\Old\\Dev\\C#\\CsharpFirstProject\\CsharpFirstProject.csproj": {}
   },
   "projects": {
-    "D:\\SelfStudying\\SelfStudying\\Dev\\C#\\CsharpFirstProject\\CsharpFirstProject.csproj": {
+    "D:\\SelfStudying\\SelfStudying\\Old\\Dev\\C#\\CsharpFirstProject\\CsharpFirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SelfStudying\\SelfStudying\\Dev\\C#\\CsharpFirstProject\\CsharpFirstProject.csproj",
+        "projectUniqueName": "D:\\SelfStudying\\SelfStudying\\Old\\Dev\\C#\\CsharpFirstProject\\CsharpFirstProject.csproj",
         "projectName": "CsharpFirstProject",
-        "projectPath": "D:\\SelfStudying\\SelfStudying\\Dev\\C#\\CsharpFirstProject\\CsharpFirstProject.csproj",
+        "projectPath": "D:\\SelfStudying\\SelfStudying\\Old\\Dev\\C#\\CsharpFirstProject\\CsharpFirstProject.csproj",
         "packagesPath": "C:\\Users\\ifetc\\.nuget\\packages\\",
-        "outputPath": "D:\\SelfStudying\\SelfStudying\\Dev\\C#\\CsharpFirstProject\\obj\\",
+        "outputPath": "D:\\SelfStudying\\SelfStudying\\Old\\Dev\\C#\\CsharpFirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ifetc\\AppData\\Roaming\\NuGet\\NuGet.Config"

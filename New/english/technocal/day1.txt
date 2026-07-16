@@ -1,0 +1,7 @@
+Переведи
+1. The function returns a list.
+Перевод: Функция возвращает список.
+2. Every dictionary has keys and values.
+Перевод: Каждый словарь имеет ключ и значение
+3. I fixed a bug yesterday.
+Перевод: Вчера я исправил баг.
