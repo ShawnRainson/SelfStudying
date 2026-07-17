@@ -1,0 +1,7 @@
+Переведи:
+1. Every method has a name.
+Перевод: У каждого метода есть имя.
+2. This function returns a number.
+Перевод: Эта функция возвращает числою
+3. The program receives user input.
+Перевод: Программа поддерживает пользовательский ввод.
