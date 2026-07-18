@@ -1,0 +1,7 @@
+Переведи:
+1. The program stores movie information.
+Перевод: Программа хранит информацию о фильмах.
+2. Every record has a title and a rating.
+Перевод: У каждой записи есть название и рейтинг.
+3. We need to update this collection.
+Перевод: Нам нужно обновить данную коллекцию.
