@@ -1,0 +1,11 @@
+Представь, что ты сделал сегодняшнее задание.
+Напиши сообщение коллеге:
+
+Я добавил новую функцию обновления рейтинга фильма, исправил вывод информации и немного улучшил структуру программы.
+
+Не переводи слово в слово. Постарайся написать так, как написал бы разработчик.
+
+Hey Mike. I'm finally finished new function for updating movvie rating, also i fixed output. I make function for that and changed program structure little bit.
+I send code to you for review. See you tomorrow.
+P.S
+When you give back 2 buxes what i paid for you in Starbucks last week, hm? :) 

@@ -1,0 +1,14 @@
+Переведи.
+1. The object stores movie information.
+Перевод: Объект хранит информацию о фильмах.
+2. Every movie has a title, year and rating.
+Перевод: У каждого фильма есть название, год и рейтинг.
+3. This function updates the rating.
+Перевод: Данная функция обновляет рейтинг.
+
+Исправь ошибки.
+1. She doesn't like coffee.
+Объяснение: Для местоимений he, she, it, they в конце вспомогательного глагола добавляется s
+2. He has two brothers.
+Объяснение: Для местоимений he, she, it в конце вспомогательного глагола добавляется s
+They're going to work every day.
