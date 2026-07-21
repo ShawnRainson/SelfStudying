@@ -1,0 +1,15 @@
+Переведи:
+1. Strings are immutable.
+Перевод: Строки неизменяемы.
+2. This function counts vowels.
+Перевод: Данная функция считает гласные буквы.
+3. The application searches movies by title.
+Перевод: Приложение ищет фильмы по названию.
+
+Исправь ошибки и объясни их.
+1. He don't understand this code.
+Исправление: He doesn't understand this code.
+2. She write programs every day.
+Исправление: She writes programs every day.
+3. I am usually wake up at seven.
+Здесь не вижу ошибку

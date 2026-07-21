@@ -10,17 +10,18 @@ def movie_catalog():
             '5. Show best rate movie\n' \
             '6. Show movie by genre\n' \
             '7. Updete movie rating\n' \
-            '8. Exit')
-            choice = int(input('Choose menu option (1-8): '))
+            '8. Title part search movie\n' \
+            '9. Exit')
+            choice = int(input('Choose menu option (1-9): '))
             if choice == 1:
                 mov_params = {}
                 mov_title = input('Enter movie title: ')
                 mov_year = int(input('Enter movie year: '))
-                mov_params["Year"] = mov_year
+                mov_params["year"] = mov_year
                 mov_genre = input('Enter movie genre: ')
-                mov_params["Genre"] = mov_genre
+                mov_params["genre"] = mov_genre
                 mov_rating = float(input('Enter movie rate: '))
-                mov_params['Rating'] = mov_rating
+                mov_params['rating'] = mov_rating
                 movies[mov_title] = mov_params
             elif choice == 2:
                 if not movies:
@@ -49,9 +50,9 @@ def movie_catalog():
                     del movies[delete_mov]
                     print('Movie was delete!')
             elif choice == 5:
-                best_rate = None
+                best_rate = -1
                 for mov, rate in movies.items():
-                    if rate["Rating"] > best_rate:
+                    if rate["rating"] > best_rate:
                         best_rate = rate["Rating"]
                         best_mov = mov
                 print(f'Title: {best_mov}\nRate: {best_rate}')
@@ -60,7 +61,7 @@ def movie_catalog():
                 genre_movie = genre_movie.lower()
                 found_genre = False
                 for mov, genre in movies.items():
-                    if genre["Genre"].lower() == genre_movie:
+                    if genre["genre"].lower() == genre_movie:
                         print(f"Movie: {mov}")
                         found_genre = True
                 if not found_genre:
@@ -73,12 +74,23 @@ def movie_catalog():
                     if mov_title.lower() == movie_title:
                         found = True
                         new_rating = float(input(f'Enter new rating for {mov_title}: '))
-                        old_rating['Rating'] = new_rating
+                        old_rating['rating'] = new_rating
                         print('Rating changes was saved!')
                         break
                 if not found:
                     print("Movie not found!") 
             elif choice == 8:
+                part_of_title = input('Enter part of title: ')
+                part_of_title = part_of_title.lower()
+                fount = False
+                for title in movies:
+                    lower_title = title.lower()
+                    if part_of_title in lower_title:
+                        print(f'Title: {title}')
+                        found = True
+                if not found:
+                    print("Movie not found!")
+            elif choice == 9:
                 print('Bye-bye!')
                 break
             else:
@@ -88,7 +100,7 @@ def movie_catalog():
 
 def show_movie(title, movie):
     print(f'Movie title: {title}')
-    print(f'Year: {movie["Year"]}\nGenre: {movie["Genre"]}\nRating: {movie["Rating"]}')
+    print(f'Year: {movie["year"]}\nGenre: {movie["genre"]}\nRating: {movie["rating"]}')
 
 movie_catalog()
 

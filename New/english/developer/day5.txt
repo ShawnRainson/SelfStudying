@@ -1,0 +1,11 @@
+Представь, что ты отправляешь сообщение тимлиду после завершения работы.
+Напиши примерно так:
+
+Сегодня я реализовал поиск фильма по части названия, добавил несколько функций для работы со строками и немного улучшил структуру программы. Всё протестировал, основные сценарии работают корректно.
+
+Не переводи дословно. Постарайся написать естественно.
+
+Hello Mr. Jackson. I've realized new function for searching movies use just part of title, plus i added some functions for work with strings.
+Don't worry about structure, i improved it. Plus i with Mike tested main ways of using program.
+Program working great right now.
+I've send to you updates report.
