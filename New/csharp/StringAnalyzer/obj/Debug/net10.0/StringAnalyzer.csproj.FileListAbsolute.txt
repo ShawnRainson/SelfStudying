@@ -1,0 +1,15 @@
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\obj\Debug\net10.0\StringAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\obj\Debug\net10.0\StringAnalyzer.AssemblyInfoInputs.cache
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\obj\Debug\net10.0\StringAnalyzer.AssemblyInfo.cs
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\obj\Debug\net10.0\StringAnalyzer.csproj.CoreCompileInputs.cache
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\obj\Debug\net10.0\StringAnalyzer.sourcelink.json
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\bin\Debug\net10.0\StringAnalyzer.exe
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\bin\Debug\net10.0\StringAnalyzer.deps.json
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\bin\Debug\net10.0\StringAnalyzer.runtimeconfig.json
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\bin\Debug\net10.0\StringAnalyzer.dll
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\bin\Debug\net10.0\StringAnalyzer.pdb
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\obj\Debug\net10.0\StringAnalyzer.dll
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\obj\Debug\net10.0\refint\StringAnalyzer.dll
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\obj\Debug\net10.0\StringAnalyzer.pdb
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\obj\Debug\net10.0\StringAnalyzer.genruntimeconfig.cache
+D:\SelfStudying\SelfStudying\New\csharp\StringAnalyzer\obj\Debug\net10.0\ref\StringAnalyzer.dll

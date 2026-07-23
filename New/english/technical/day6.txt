@@ -1,0 +1,15 @@
+Переведи.
+1. This method returns a dictionary.
+Перевод: Данный метод возвращает словарь 
+2. The application counts letters.
+Перевод: Приложение считает буквы.
+3. Search by genre.
+Перевод: Поиск по жанру.
+
+Исправь ошибки.
+
+She doesn't know Python.
+He has many books.
+Объяснение: Для местоимений используется окончание -s/-es
+I going to work every day.
+Объяснение: В Present Continous добавляется окончание -ing 

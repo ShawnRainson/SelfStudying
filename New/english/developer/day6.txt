@@ -1,0 +1,15 @@
+Представь,
+
+что коллега спросил:
+
+Что ты сегодня сделал?
+
+Ответь ему.
+
+5–8 предложений.
+
+Постарайся использовать лексику разработчиков:
+Hi Mike. I complete those function today, i think you remember.
+Plus i fixed some bugs in code, what appear after Jake's vibe-coding.
+By the way, after his coding, in your function appeared bug with searching by genre.
+But don't worry, i fixed that too.

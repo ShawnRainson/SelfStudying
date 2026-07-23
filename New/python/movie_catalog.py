@@ -11,8 +11,9 @@ def movie_catalog():
             '6. Show movie by genre\n' \
             '7. Updete movie rating\n' \
             '8. Title part search movie\n' \
-            '9. Exit')
-            choice = int(input('Choose menu option (1-9): '))
+            '9. Rename movie\n' \
+            '10. Exit')
+            choice = int(input('Choose menu option (1-10): '))
             if choice == 1:
                 mov_params = {}
                 mov_title = input('Enter movie title: ')
@@ -82,7 +83,7 @@ def movie_catalog():
             elif choice == 8:
                 part_of_title = input('Enter part of title: ')
                 part_of_title = part_of_title.lower()
-                fount = False
+                found = False
                 for title in movies:
                     lower_title = title.lower()
                     if part_of_title in lower_title:
@@ -91,6 +92,19 @@ def movie_catalog():
                 if not found:
                     print("Movie not found!")
             elif choice == 9:
+                search_movie = input("Enter movie title: ")
+                search_movie = search_movie.lower()
+                found = False
+                for movie_title in movies:
+                    if movie_title.lower() == search_movie:
+                        new_movie_title = input("Enter new movie title: ")
+                        #Не знаю как заменить ключ на новое название, объсни пожалуйста
+                        print("Movie rename successfuly!")
+                        found = True
+                        break
+                if not found:
+                    print("Movie not found!")
+            elif choice == 10:
                 print('Bye-bye!')
                 break
             else:
